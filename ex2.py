@@ -10,4 +10,4 @@ while True:
 total=sum(valores)
 
 print(f"Valores digitados {valores}")
-print(f"Soma total {total:.2f}")
+print(f"Soma total {total:.3f}")
